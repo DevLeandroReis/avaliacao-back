@@ -8,3 +8,6 @@
 .NET 6<br>
 EF Core<br>
 SQL Server<br>
+
+<h1>IMPLEMENTACOES FALTANTES:</h1><br>
+Validação do atributo Porte do cliente, sendo possivel cadastrar qualquer porte.
